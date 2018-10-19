@@ -521,7 +521,7 @@ begin
    writeln('Put the name of the database :');
    readln(nomdb);
   //change the path of the mysql.exe
-  comand := 'C:\AppServ\MySQL\bin\mysql.exe -uroot -pmadara1998 -e "create database ' + nomdb + ' ;"';
+  comand := 'C:\AppServ\MySQL\bin\mysql.exe -uroot -ptest1234 -e "create database ' + nomdb + ' ;"';
 
   ZeroMemory(@si, sizeof(si));
   si.cb := sizeof(si);
@@ -554,7 +554,7 @@ begin
    readln(typecolumn);
 
   //change the path of the mysql.exe
-  comand := 'C:\AppServ\MySQL\bin\mysql.exe -uroot -pmadara1998 -e "use ' + nomdb + ' ;ALTER TABLE '+nomtable+' ADD '+nomcolumn+' '+typecolumn+';"';
+  comand := 'C:\AppServ\MySQL\bin\mysql.exe -uroot -ptest1234 -e "use ' + nomdb + ' ;ALTER TABLE '+nomtable+' ADD '+nomcolumn+' '+typecolumn+';"';
 
   ZeroMemory(@si, sizeof(si));
   si.cb := sizeof(si);
@@ -588,7 +588,7 @@ begin
    readln(nomtable);
 
   //change the path of the mysql.exe
-  comand := 'C:\AppServ\MySQL\bin\mysql.exe -uroot -pmadara1998 -e "use ' + nomdb + ' ;create table '+nomtable+'(id int(10))"';
+  comand := 'C:\AppServ\MySQL\bin\mysql.exe -uroot -ptest1234 -e "use ' + nomdb + ' ;create table '+nomtable+'(id int(10))"';
 
   ZeroMemory(@si, sizeof(si));
   si.cb := sizeof(si);
