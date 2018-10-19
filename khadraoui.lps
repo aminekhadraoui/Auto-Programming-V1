@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="khadraoui.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="19" Y="501"/>
+        <FoldState Value=" T3F043 plNld0{e11]Cj1q00K15"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="12.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="2"/>
+        <UsageCount Value="26"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\regi\registration.pas"/>
+        <UnitName Value="ex"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="34" Y="132"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="9" Column="89"/>
+      </Position1>
+      <Position2>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="18" Column="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="39" Column="38" TopLine="22"/>
+      </Position3>
+      <Position4>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="6" Column="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="25" Column="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="233" Column="20" TopLine="216"/>
+      </Position6>
+      <Position7>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="8" Column="9"/>
+      </Position7>
+      <Position8>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="41" Column="14" TopLine="35"/>
+      </Position8>
+      <Position9>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="352" Column="40" TopLine="336"/>
+      </Position9>
+      <Position10>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="505" Column="27" TopLine="23"/>
+      </Position10>
+      <Position11>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="227" Column="11" TopLine="22"/>
+      </Position11>
+      <Position12>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="2" Column="37"/>
+      </Position12>
+      <Position13>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="337" Column="13" TopLine="319"/>
+      </Position13>
+      <Position14>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="225" TopLine="34"/>
+      </Position14>
+      <Position15>
+        <Filename Value="khadraoui.lpr"/>
+        <Caret Line="487" TopLine="41"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
